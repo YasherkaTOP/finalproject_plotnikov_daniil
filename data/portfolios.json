@@ -1,0 +1,27 @@
+[
+  {
+    "user_id": 1,
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      },
+      "EUR": {
+        "currency_code": "EUR",
+        "balance": 200.0
+      },
+      "USD": {
+        "currency_code": "USD",
+        "balance": 150.0
+      }
+    }
+  },
+  {
+    "user_id": 2,
+    "wallets": {}
+  },
+  {
+    "user_id": 3,
+    "wallets": {}
+  }
+]

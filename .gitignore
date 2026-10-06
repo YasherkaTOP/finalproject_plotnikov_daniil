@@ -2,3 +2,7 @@
 .idea/
 dist/
 __pycache__/
+.ruff_cache/
+logs/
+.env
+data/*.tmp
